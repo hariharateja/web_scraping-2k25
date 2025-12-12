@@ -2,14 +2,14 @@ As you explore these resources, remember that each step is building the foundati
 
 Enjoy the learning process—ask questions, experiment, and explore!
 
-github tutorial for beginners.[Github](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
+github tutorial for beginners.[Github](https://www.freecodecamp.org/news/git-and-github-for-beginners/) and also find [here](./09-Git.pdf)
 
 
 ---
 
 ## Week1
 
-Please find the resources for Week1 in [Week1-Resources](./Week1-Resources) and also find [here](./09-git.pdf)
+Please find the resources for Week1 in [Week1-Resources](./Week1-Resources) 
 
 Before you get started with the assignment, ceate a GitHub repository. Clone it onto your system by using this command in your terminal:
 
